@@ -1,46 +1,13 @@
-# KakarotExtension 0.8
+# Kakarot Extension
 
-A Paperback extension that provides access to various manga sources.
+A repository for paperback
 
-## Available Sources
+## 🚀 Installation
 
-### BatCave
+1. Open Paperback
+2. Add this repository using [this link](paperback://addRepo?displayName=Kakarot%20Extension%200.8&url=https%3A%2F%2Fbigmo0.github.io%2Fkakarotextension0.8%2F)
+3. Install and enjoy reading!
 
-BatCave is a manga source that provides access to a large collection of manga titles.
+---
 
-#### Features
-- Popular manga section with ratings
-- High quality manga images
-- Detailed manga information
-
-#### Usage
-1. Install the extension through Paperback
-2. Browse the "Popular" section to discover top-rated manga
-3. Use the search functionality to find specific titles
-
-## Installation
-
-1. Open Paperback app
-2. Go to Settings > Sources
-3. Add the extension repository URL
-4. Install KakarotExtension
-
-## Development
-
-This extension is built for the Paperback app using TypeScript. Contributions are welcome.
-
-### Building from Source
-```bash
-# Clone the repository
-git clone https://github.com/karrot0/KakarotExtension0.8.git
-
-# Install dependencies
-npm install
-
-# Build the extension
-npm run build
-```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+_Note: This extension is not affiliated with the source websites._
